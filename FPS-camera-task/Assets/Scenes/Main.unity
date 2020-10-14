@@ -849,13 +849,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _moveLeftButton1: 97
-  _moveLeftButton2: 276
+  _moveLeftButton2: 0
   _moveRightButton1: 100
-  _moveRightButton2: 275
+  _moveRightButton2: 0
   _moveForwardButton1: 119
-  _moveForwardButton2: 273
+  _moveForwardButton2: 0
   _moveBackButton1: 115
-  _moveBackButton2: 274
+  _moveBackButton2: 0
   _MovementSpeed: 1
   _MouseSensetivity: 10
   _head: {fileID: 561185245}
