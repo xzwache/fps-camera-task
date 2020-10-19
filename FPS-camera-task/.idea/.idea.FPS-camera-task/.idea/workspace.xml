@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65187d47-cf1d-431a-b419-b5f4f54a4afb" name="Default Changelist" comment="" />
+    <list default="true" id="65187d47-cf1d-431a-b419-b5f4f54a4afb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Ground.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +39,11 @@
     <setting file="file://$PROJECT_DIR$/../../playtikaunityacademy/playtika-unity-academy-task/Assets/Scripts/MovementControll/MovementControll.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Zoom.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovementControll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorizedObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Crosshair.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/ColorizeAllObjects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/ColorizedObjectsCustomEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gun.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -39,6 +51,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MovementControll.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovementControll.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Zoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Crosshair.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/ColorizeAllObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Wall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Floor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/ColorizedObjectsCustomEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorizedObject.cs" />
       </list>
     </option>
   </component>
@@ -82,6 +101,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602676270052</updated>
       <workItem from="1602676276221" duration="5135000" />
+      <workItem from="1602684170478" duration="706000" />
+      <workItem from="1603095988250" duration="2046000" />
     </task>
     <servers />
   </component>
@@ -97,6 +118,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
