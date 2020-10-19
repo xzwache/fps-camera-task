@@ -14,13 +14,12 @@ public abstract class ColorizedObject : MonoBehaviour {
         _renderer.sharedMaterial.color = color;
     }
 
-    private void Start() {
+    protected void Awake() {
         OnStart();
     }
 
     protected virtual void OnStart() {
-        _renderer = GetComponent<MeshRenderer>();
-        _defaultColor = _renderer.sharedMaterial.color;
+        Reset();
     }
 
     public void Reset() {

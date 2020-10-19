@@ -13,6 +13,7 @@ public class ColorizedObjectsCustomEditor : Editor
         
         if (GUILayout.Button("Reset color to default value")) {
             obj.SetColor(obj.DefaultColor);
+            serializedObject.ApplyModifiedProperties();
         }
     }
 }

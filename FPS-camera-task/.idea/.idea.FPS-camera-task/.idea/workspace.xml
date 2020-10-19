@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65187d47-cf1d-431a-b419-b5f4f54a4afb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FPS-camera-task/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Ground.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Ground.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/ColorizeAllObjects.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/ColorizeAllObjects.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/ColorizedObjectsCustomEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/ColorizedObjectsCustomEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColorizedObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ColorizedObject.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +51,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovementControll.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Zoom.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Crosshair.cs" />
-        <option value="$PROJECT_DIR$/Assets/Editor/ColorizeAllObjects.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Wall.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Gun.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Floor.cs" />
         <option value="$PROJECT_DIR$/Assets/Editor/ColorizedObjectsCustomEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/ColorizeAllObjects.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColorizedObject.cs" />
       </list>
     </option>
@@ -103,6 +102,8 @@
       <workItem from="1602676276221" duration="5135000" />
       <workItem from="1602684170478" duration="706000" />
       <workItem from="1603095988250" duration="2046000" />
+      <workItem from="1603102941707" duration="12000" />
+      <workItem from="1603102985270" duration="363000" />
     </task>
     <servers />
   </component>
