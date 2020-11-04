@@ -2,11 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(PlayerMovementControll))]
 public class Player : MonoBehaviour {
     
     private int _speed;
     private int _health;
     private string _fullName;
+
+    private MovementControll _movementControll;
 
     public int Speed {
         get => _speed;
@@ -14,6 +17,7 @@ public class Player : MonoBehaviour {
             if (_speed != value) {
                 _speed = value;   
                 Debug.Log("New player Speed value: " + value);
+                _movementControll.SetMovementSpeed((float)value);
             }
         }
     }
@@ -36,5 +40,9 @@ public class Player : MonoBehaviour {
                 Debug.Log("New player Full Name: " + value);   
             }
         }
+    }
+
+    private void Reset() {
+        _movementControll = GetComponent<PlayerMovementControll>();
     }
 }

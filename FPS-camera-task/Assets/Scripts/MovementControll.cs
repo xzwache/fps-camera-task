@@ -21,4 +21,8 @@ public class MovementControll : MonoBehaviour
     [SerializeField] internal float _MovementSpeed = 1.0f;
 
     [Space] [SerializeField] internal float _MouseSensetivity = 10f;
+
+    public virtual void SetMovementSpeed(float value) {
+        _MovementSpeed = value;
+    }
 }
