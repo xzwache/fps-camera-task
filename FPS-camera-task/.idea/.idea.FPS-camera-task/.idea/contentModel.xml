@@ -12,9 +12,13 @@
         <e p="Scripts" t="Include">
           <e p="ColorizedObject.cs" t="Include" />
           <e p="Crosshair.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="ServerRequest.cs" t="Include" />
+          </e>
           <e p="Floor.cs" t="Include" />
           <e p="Gun.cs" t="Include" />
           <e p="MovementControll.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
           <e p="PlayerMovementControll.cs" t="Include" />
           <e p="Wall.cs" t="Include" />
           <e p="Zoom.cs" t="Include" />
