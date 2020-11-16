@@ -9,7 +9,7 @@ public class Player : MonoBehaviour {
     private int _health;
     private string _fullName;
 
-    private MovementControll _movementControll;
+    private MovementControll _movementControll = default;
 
     public int Speed {
         get => _speed;
@@ -42,6 +42,10 @@ public class Player : MonoBehaviour {
         }
     }
 
+    private void Start() {
+        _movementControll = GetComponent<PlayerMovementControll>();
+    }
+    
     private void Reset() {
         _movementControll = GetComponent<PlayerMovementControll>();
     }
